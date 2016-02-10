@@ -1,0 +1,21 @@
+<page columns=1 padding=16 name=front background=bg.png linkcolor=#88dddd>
+<font face=normal/24 color=#ffffff>
+<p align=75%>
+E-Wireless
+<font face=normal/14 color=#88eeff>
+<p align=50%>
+Epplet to monitor Lucent WaveLAN Signal Quality.
+<font face=normal/11 color=#ffffff>
+<p align=50%>
+By Mark C. Langston
+<p>
+This epplet, graphically displays the signal strength of a Lucent WaveLAN
+(or any other) 802.11 wireless PCMCIA card, as recorded in /proc/net/wireless.
+<p>
+The power of our cat, Delia, commands you.
+<p>
+<br><img src=delia.png>
+
+
+
+

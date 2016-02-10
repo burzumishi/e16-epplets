@@ -1,0 +1,21 @@
+<page columns=1 padding=16 name=front background=bg.png linkcolor=#88dddd>
+<font face=normal/24 color=#ffffff>
+<p align=50%>
+E-NetFlame
+<font face=normal/14 color=#88eeff>
+<p align=50%>
+The Flaming Network monitor. <br>
+<font face=normal/11 color=#ffffff>
+Version 0.3
+<p align=50%>
+By Shawn Veader - 1999
+<p>
+This Epplet displays your network usage as a flame. The left section of the
+Epplet displays the received (Rx) traffic and the right section diplays
+the transmitted (Tx) traffic. As with the E-Cpu Epplet the more activity
+the more flame you get.
+<p>
+Select the '?' button to get this. Select the 'tool' button to change
+the color that the flames are drawn in (Colors are same as E-Cpu) and the
+"bandwidth" that you operate at. This allows for some scaling factor. The 
+selection of the 'X' button obviously closes the Epplet.
